@@ -1,0 +1,2 @@
+# GLog
+Antilogger
